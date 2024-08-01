@@ -167,11 +167,6 @@ For more information on the project, filing bug reports and feature requests, an
 
 ---
 
-## License
-
-See [LICENSE][stdlib-license].
-
-
 ## Copyright
 
 Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
@@ -187,8 +182,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/blas-base-matrix-triangle-resolve-enum.svg
 [npm-url]: https://npmjs.org/package/@stdlib/blas-base-matrix-triangle-resolve-enum
 
-[test-image]: https://github.com/stdlib-js/blas-base-matrix-triangle-resolve-enum/actions/workflows/test.yml/badge.svg?branch=v0.1.0
-[test-url]: https://github.com/stdlib-js/blas-base-matrix-triangle-resolve-enum/actions/workflows/test.yml?query=branch:v0.1.0
+[test-image]: https://github.com/stdlib-js/blas-base-matrix-triangle-resolve-enum/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/blas-base-matrix-triangle-resolve-enum/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/blas-base-matrix-triangle-resolve-enum/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/blas-base-matrix-triangle-resolve-enum?branch=main
@@ -217,8 +212,6 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [esm-url]: https://github.com/stdlib-js/blas-base-matrix-triangle-resolve-enum/tree/esm
 [esm-readme]: https://github.com/stdlib-js/blas-base-matrix-triangle-resolve-enum/blob/esm/README.md
 [branches-url]: https://github.com/stdlib-js/blas-base-matrix-triangle-resolve-enum/blob/main/branches.md
-
-[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/blas-base-matrix-triangle-resolve-enum/main/LICENSE
 
 </section>
 
