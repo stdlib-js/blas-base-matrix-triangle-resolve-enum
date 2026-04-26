@@ -1,5 +1,24 @@
-"use strict";var u=function(e,r){return function(){return r||e((r={exports:{}}).exports,r),r.exports}};var n=u(function(c,t){
-var i=require('@stdlib/blas-base-matrix-triangle-enum2str/dist'),s=require('@stdlib/blas-base-matrix-triangle-str2enum/dist');function o(e){var r=typeof e;return r==="number"?i(e)?e:null:r==="string"?s(e):null}t.exports=o
-});var f=n();module.exports=f;
 /** @license Apache-2.0 */
-//# sourceMappingURL=index.js.map
+
+'use strict';
+
+/**
+* Return the enumeration constant associated with a supported BLAS matrix triangle value.
+*
+* @module @stdlib/blas-base-matrix-triangle-resolve-enum
+*
+* @example
+* var resolve = require( '@stdlib/blas-base-matrix-triangle-resolve-enum' );
+*
+* var v = resolve( 'lower' );
+* // returns <number>
+*/
+
+// MODULES //
+
+var main = require( './main.js' );
+
+
+// EXPORTS //
+
+module.exports = main;
